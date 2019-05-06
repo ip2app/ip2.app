@@ -1,4 +1,4 @@
-Free IP PHP API | IP2.app
+Free IP PHP API | https://ip2.app/api.php
 Free IP API in PHP. Unlimited lookups for developers. Retrieve updated IP info automatically to your website scripts.
 
 Getting Started
@@ -16,8 +16,6 @@ Install the software on your PHP pages.
 
 Examples
 https://github.com/ip2app/ip2.app/blob/master/example.php
-
-https://ip2.app/api.php
 
 Authors
 https://ip2.app
