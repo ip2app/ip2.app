@@ -32,6 +32,8 @@ License:
 
 See the LICENSE.md file for details
 
+https://github.com/ip2app/ip2.app/blob/master/LICENSE.md
+
 All IP2 apps are completely FREE and UNLIMITED!
 
 Weekly update! IP2.app database is updated weekly. You always benefit of fresh geographic informations.
