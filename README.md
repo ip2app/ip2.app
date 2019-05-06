@@ -16,7 +16,7 @@ Prerequisites
 Install the software on your PHP pages.
 
 Examples
-https://github.com/ip2app/ip2.app/blob/master/example.php
+https://github.com/ip2app/ip2.app/blob/master/ip2.php
 
 Authors
 https://ip2.app
