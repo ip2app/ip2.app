@@ -5,8 +5,9 @@ Getting Started
 Request informations automatically from a known IP address in your apps.
 API request:
 Usage:
-https://ip2.app/info.php?ip=<IP>
-<IP> - IP address
+https://ip2.app/info.php?ip=IP
+
+IP - IP address
 
 Prerequisites
 Install the software on your PHP pages.
