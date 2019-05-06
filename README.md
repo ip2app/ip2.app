@@ -19,7 +19,7 @@ API response in JSON format:
 
 Prerequisites:
 
-Install the software on your PHP pages.
+Use the API requests on your PHP pages.
 
 Examples:
 
@@ -33,3 +33,5 @@ License:
 See the LICENSE.md file for details
 
 All IP2 apps are completely FREE and UNLIMITED!
+
+Weekly update! IP2.app database is updated weekly. You always benefit of fresh geographic informations.
